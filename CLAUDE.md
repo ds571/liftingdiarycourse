@@ -2,6 +2,12 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Documentation
+
+**IMPORTANT:** Before generating any code, ALWAYS read and follow the relevant docs files in the `docs/` directory first. These documents define the project's coding standards and must be adhered to at all times.
+
+- `docs/ui.md` - UI component and date formatting standards
+
 ## Commands
 
 - `npm run dev` - Start development server (http://localhost:3000)
