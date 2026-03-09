@@ -8,6 +8,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - `docs/ui.md` - UI component and date formatting standards
 - `docs/data-fetching.md` - Data fetching and database query standards
+- `docs/auth.md` - Authentication standards (Clerk)
+- `docs/data-mutations.md` - mutation standards
+- `docs/routing.md` - Routing standards (all routes under /dashboard, route protection via middleware)
 
 ## Commands
 
