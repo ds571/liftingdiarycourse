@@ -11,7 +11,8 @@
       "mcp__neon__run_sql_transaction",
       "Bash(npx shadcn@latest:*)",
       "Bash(npm ls:*)",
-      "mcp__plugin_playwright_playwright__browser_take_screenshot"
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "Bash(git:*)"
     ]
   },
   "outputStyle": "default"
